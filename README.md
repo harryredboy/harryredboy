@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @harryredboy
+- 👀 I’m interested in Forex bots
+- 🌱 I’m currently learning Forex programming
